@@ -1,0 +1,5 @@
+---
+applications:
+- name: pcntl-test
+  buildpack: https://github.com/cloudfoundry/php-buildpack#cf-binary-beta
+  memory: 64M

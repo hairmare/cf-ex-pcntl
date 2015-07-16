@@ -1,0 +1,12 @@
+{
+    "name": "hairmare/cf-ex-pcntl",
+    "require": {
+        "ext-pcntl": "*"
+    },
+    "authors": [
+        {
+            "name": "Lucas Bickel",
+            "email": "hairmare@purplehaze.ch"
+        }
+    ]
+}
